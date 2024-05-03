@@ -2,7 +2,7 @@
 
 <h2>sobre</h2>
 <p>Projeto de uma Landing page, foi criando uma Landing page responsiva, com HTML e CSS. </p>
-<a href = "https://alanalves0.github.io/landingpage/">Clique aqui para acessar o projeto</a>
+<a href = "https://landingpage-seven-psi.vercel.app">Clique aqui para acessar o projeto</a>
 <br><br><br>
 ##Tecnologias
 <div>
